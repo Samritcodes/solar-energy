@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /site/login
+Disallow: /site/admin
+Disallow: /admin
+Disallow: /index.php?r=site/login
+Disallow: /index.php?r=site/admin
+Disallow: /index.php?r=admin
